@@ -31,7 +31,9 @@ The second spectrogram plot: it displays the signal in the Frequency domain sinc
 
 
 
+
 then I applied Convolutional Neural Networks on the provided data as we see below :
+
 
 ![Alt text](https://github.com/menna566/Audio-classification-/blob/main/accuracy.png)
 
