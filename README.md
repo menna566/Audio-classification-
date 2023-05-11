@@ -4,8 +4,11 @@ the goal of this project is to utilize cnn and lstm to fit the audio data so we 
 
 ## Requirements:
 -sklearn 
+
 -Tensorflow
+
 -librosa
+
 ## Approach 
 
 #### With Convolutional Neural Networks Model :
