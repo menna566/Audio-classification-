@@ -1,6 +1,6 @@
 # Audio-classification-
 ## Objective :
-the goal of this project is to utilize cnn and lstm to fit the audio data so we could see the evaluation of each model 
+the goal of this project is to utilize CNN and LSTM to fit the audio data so we could see the evaluation of each model 
 
 ## Requirements:
 -sklearn 
