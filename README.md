@@ -14,9 +14,11 @@ the goal of this project is to utilize cnn and lstm to fit the audio data so we 
 #### With Convolutional Neural Networks Model :
 After loading the data I will try to visualize it to see the freqency of the signal per time and we will do that in two forms of plots  
 the first one is :
+
 Signal Plot: also known as a waveform plot,it displays the amplitude of a signal over time  and It represents the variation of the signal's amplitude along the horizontal time axis.
 
 the second one is :
+
 A spectrogram plot : is a visualization that shows how the frequency content of a signal changes over time and It provides a 2D representation of the signal's frequency components as they vary with time.
 
 ![Alt text](https://github.com/menna566/Audio-classification-/blob/main/specto-signal.png)
