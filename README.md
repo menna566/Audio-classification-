@@ -29,6 +29,8 @@ it represents the changes in amplitude correspond to changes in the sound's inte
 
 The second spectrogram plot: it displays the signal in the Frequency domain since the x-axis shows the range of frequency values of the signal at a moment in time and the intensity of it represents the power and magnitude of the signal at each time-frequency so The brighter the intensity the higher the energy of the signal 
 
+
+
 then I applied Convolutional Neural Networks on the provided data as we see below :
 
 ![Alt text](https://github.com/menna566/Audio-classification-/blob/main/accuracy.png)
