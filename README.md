@@ -24,7 +24,7 @@ A spectrogram plot : is a visualization that shows how the frequency content of 
 the First signal plot : the x-axis typically represents time, and the y-axis represents the amplitude or intensity of the signal "energy"
 it represents the changes in amplitude correspond to changes in the sound's intensity or volume as it shows us a sense of how loud or quiet a clip is at any point in time, but it gives us very little information about which frequencies are present.
 
-The second spectrogram plot:it displays the signal in the Frequency domain since the x-axis shows the range of frequency values of the signal at a moment in time and the intensity of it represents the power and magnitude of the signal at each time-frequency so The brighter the intensity the higher the energy of the signal 
+The second spectrogram plot: it displays the signal in the Frequency domain since the x-axis shows the range of frequency values of the signal at a moment in time and the intensity of it represents the power and magnitude of the signal at each time-frequency so The brighter the intensity the higher the energy of the signal 
 
 then we applied Convolutional Neural Networks on the provided data as we see below :
 
