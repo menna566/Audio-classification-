@@ -46,7 +46,7 @@ But unfortunately LSTM Modl tried to overfit the data as we see below :
 
 ![Alt text](https://github.com/menna566/Audio-classification-/blob/main/lstm.png)
 
-in the future work we will solve the overfitting problem but we have fornow CNN Model as the best 
+in the future work we will solve the overfitting problem but we have for now CNN Model as the Good one
 
 
 
